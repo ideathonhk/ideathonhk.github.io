@@ -1,0 +1,179 @@
+@media screen and (max-width:1140px) {
+	#the_experience { background-position:50% 0; }
+}
+
+@media screen and (max-width:1023px) {
+	#the_experience .cloud-nine .sarah { top:235px; margin-left:-20px; }
+	#the_experience .cloud-nine .paul { margin-left:-120px; }
+	#the_experience .cloud-nine .robin { margin-left:90px; }
+	#the_experience .cloud-nine .mike { margin-left:-302px; }
+	#the_experience .cloud-nine .jeremy { top:235px; margin-left:-220px; }
+
+	#the_experience .cloud-nine { background-position:45% 0; }
+
+	#the_experience .cloud-nine { padding:490px 0 0; }
+	#the_experience .whats-this-all-about br { display:none; }
+}
+
+@media screen and (max-width:1000px) {
+	#alt-logo { left:50%; margin-left:-80px; }
+	#mast { width:90%; margin-left:5%; margin-right:5%; -moz-box-sizing:border-box; box-sizing:border-box; }
+
+	#the_experience .whats-this-all-about { padding:0 10%; }
+
+	#time-to-altitude { padding:0 3%; }
+
+	.minutes { position:absolute; left:-9999px; }
+	.the-counter { width:230px; float:none; position:absolute; left:50%; margin-left:-126px; }
+	.the-counter .bar { background-image:url(g/counter-bar-mini@2x.png); background-size:250px 15px; }
+	.the-counter li.hours { margin-right:0; }
+
+	#tick-tock { width:auto; padding:20px 0 28px; }
+
+	#all-about-altitude { padding:0 3%; width:94%; }
+
+	.column { width:100% !important; margin:0; float:none; }
+
+	.popup.show { background:none; position:relative; top:auto; left:auto; padding:40px 0 0; clear:both; }
+	.popup.show .sleeve { position:static; top:auto; left:auto; margin:0; padding:0 5% 0 0; width:auto; }
+
+	.popup .close { top:35px; right:0; }
+
+	.popup.show #twitter_username { width:306px; }
+	.popup.show #your_question { width:100%; -moz-box-sizing:border-box; box-sizing:border-box; }
+
+	.popup .field.half { width:100%; }
+
+	.popup.show h2 { text-align:left; }
+	.popup.show .intro { text-align:left; }
+
+	#altitude-newsletter { background:none; padding:0 3% 40px; width:94%; }
+	#altitude-newsletter .oohhhh-pretty { background:none; padding:0; width:auto; }
+	#altitude-newsletter .oohhhh-pretty .field { width:auto; float:none; display:inline-block; width:39%; margin-right:2%; }
+	#altitude-newsletter .oohhhh-pretty .shiny { padding:18px 16px; height:auto; }
+	#altitude-newsletter .oohhhh-pretty .shiny form { padding:12px 0 0; width:100%; }
+	#altitude-newsletter .oohhhh-pretty .text { width:100%; margin:0; -moz-box-sizing:border-box; box-sizing:border-box; }
+	#altitude-newsletter .oohhhh-pretty .btn { float:none; display:inline-block; width:16%; -moz-box-sizing:border-box; box-sizing:border-box; }
+	#altitude-newsletter .oohhhh-pretty .btn.ok { display:block; margin:16px auto 0; }
+	#altitude-newsletter .oohhhh-pretty .shiny .the_message { line-height:24px; }
+	#altitude-newsletter h2 { padding:0; }
+
+	#our-supporters h2 { background:none; padding:0 3%; }
+	#altitude-team h2 { background:none; padding:0 3%; }
+
+	.supporters { width:100%; }
+
+	#altitude-team { padding:0 8%; }
+	#altitude-team ul { width:auto; }
+	#altitude-team li { width:46%; padding:0 2% 40px; }
+	#altitude-team .team img { margin:0 auto; float:none; display:block; padding-bottom:40px; }
+	#altitude-team .team h3 { text-align:center; display:block; }
+}
+
+@media screen and (max-width:950px) {
+	.platinum .sponsor { margin-right:0; display:block; margin:0 auto 56px !important; }
+	.gold .sponsor { display:block; margin:0 auto 40px !important; }
+}
+
+@media screen and (max-width:900px) {
+	#tick-tock h2 { display:block; width:100%; margin:0 0 12px; padding:0; text-align:center; }
+	.the-counter { position:relative; left:auto; margin:0 auto; clear:both; }
+	.give-us-your-monies-dot-dot-dot-pls-sideways-smiley-face { float:none; width:210px; margin:20px auto 0; }
+
+	.acc_list li { float:none; width:100%; }
+}
+
+@media screen and (max-width:686px) {
+	#mast .event-details { width:100%; float:none; text-align:center; width:auto; padding:5% 0; }
+	#mast .cta { float:none; width:auto; text-align:center; }
+	#mast .cta .btn { float:none; margin:0 auto; }
+	#mast .cta .twitter { display:none; }
+	#alt-logo { left:auto; position:static; margin-left:0; }
+
+	#the_experience h1 { font-size:45px; }
+	#the_experience p { font-size:28px; }
+
+	#the_experience .up-in-the-clouds { background:#FFF; margin-top:140px; }
+	#the_experience .cloud-nine { background:none; padding:0; }
+	#the_experience .cloud-nine:after { content:"."; display:block; clear:both; visibility:hidden; height:0; }
+	#the_experience .cloud-nine ul { background:url(single-cloud.png) no-repeat 50% 0; margin-top:-80px; float:left; width:100%; padding:25px 0 0; }
+	#intro #the_experience .cloud-nine li { position:static; left:auto; float:left; padding-left:50%; margin-left:-106px; height:auto; clear:both; background-position:100% 0; }
+	#intro #the_experience .cloud-nine .big.paul { margin-left:-106px; background-size:212px 212px; width:212px; }
+
+	#intro #the_experience .cloud-nine li .bio { position:static; top:auto; left:auto; opacity:1; background:none; width:212px; padding:0 0 26px; height:auto; }
+	#intro #the_experience .cloud-nine li .bio h2 { padding-top:230px; color:#74838A; }
+	#intro #the_experience .cloud-nine li .bio p { color:#74838A; }
+	#intro #the_experience .cloud-nine li a { background-image:url(g/tweetie-grey@2x.png); background-size:19px 16px; }
+
+	#altitude-newsletter h2 { text-align:center; width:100%; }
+	#altitude-newsletter .oohhhh-pretty .field { width:100%; margin:0 0 12px; display:block; }
+	#altitude-newsletter .oohhhh-pretty .btn { width:100%; padding-left:0; padding-right:0; }
+
+	.supporters { margin:0 0 40px; }
+	.supporters li { display:block; margin:0 auto 40px !important; }
+	
+	#altitude-team li { width:84%; padding:0 8% 40px; }
+
+	.acc_list .featured img { margin-bottom:20px; }
+}
+
+@media screen and (max-width:640px) {
+	#the_experience h1 { font-size:40px; padding:50px 0 0; }
+	#the_experience .whats-this-all-about { font-size:18px; line-height:24px; }
+}
+
+@media screen and (max-width:565px) {
+	.boagworld img { width:100% !important; height:auto !important; }
+}
+
+@media screen and (max-width:468px) {
+	#time-to-altitude { padding:0 8%; }
+	#all-about-altitude { padding:0 8%; width:84%; }
+	#the_experience h1 { font-size:35px; }
+	#the_experience p { font-size:20px; line-height:28px; }
+
+	.popup.show .sleeve { padding:0; }
+
+	.popup.show #twitter_username { width:100%; -moz-box-sizing:border-box; box-sizing:border-box; }
+	.popup.show .bespoke_combo .selected { width:100%; }
+
+	.bespoke_combo ul { width:84%; }
+
+	.popup.show #submit_question { width:60%; margin:0 auto; float:none; padding-left:0; padding-right:0; }
+
+	.popup.show .featured img { float:none; display:block; margin:0 auto 20px; }
+
+	.acc_list li img { padding:0 0 16px; }
+	.acc_list .btn { width:100% !important; display:block; clear:both; -moz-box-sizing:border-box; box-sizing:border-box; }
+	.acc_list .featured .btn { line-height:20px; }
+
+	.platinum .sponsor { width:90%; height:auto; margin:0 5% auto; }
+	.platinum .sponsor img { width:100% !important; height:auto !important; }
+	.platinum .sponsor.text a { padding:10% 0; }
+}
+
+@media screen and (max-width:450px) {
+	.box { padding:50px 0; background-position:50% 0 !important; }
+	.box h2 { text-align:center; }
+	.box p { text-align:center; }
+	.box .btn { float:none; margin:0 auto; }
+	.box.guests .btn { width:140px; }
+	.box.location .btn { width:120px; }
+	.box.accommodation .btn { width:170px; }
+
+	.popup.show .box h2 { text-align:left; }
+	.popup.show p { text-align:left; }
+}
+
+@media screen and (max-width:420px) {
+	#the_experience { background-size:150% auto; }
+	#the_experience h1 { font-size:28px; }
+	#the_experience p { font-size:20px; line-height:26px; }
+	#the_experience h1 { font-size:24px; }
+	#the_experience p { font-size:18px; }
+}
+
+@media screen and (max-width:320px) {
+	#our-supporters h2 { font-size:24px; }
+	#altitude-team h2 { font-size:24px; }
+}
